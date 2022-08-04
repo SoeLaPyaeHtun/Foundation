@@ -1,0 +1,27 @@
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{67CC5DC6-A5F8-4585-A9FD-AE43A664C9B5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="dayTwoQuiz.sln">
+    <Files>
+      <File FileName="dayTwoQuiz/Program.cs" Line="17" Column="1" />
+      <File FileName="dayTwoQuiz.sln" Line="1" Column="1" />
+      <File FileName=".gitignore" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="dayTwoQuiz" expanded="True">
+            <Node name="dayTwoQuiz" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.dayTwoQuiz PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

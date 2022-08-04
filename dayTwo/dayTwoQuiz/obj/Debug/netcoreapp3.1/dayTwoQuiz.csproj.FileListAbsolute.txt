@@ -1,0 +1,13 @@
+/Users/soelapyaehtun/Projects/dayTwoQuiz/dayTwoQuiz/bin/Debug/netcoreapp3.1/dayTwoQuiz.deps.json
+/Users/soelapyaehtun/Projects/dayTwoQuiz/dayTwoQuiz/bin/Debug/netcoreapp3.1/dayTwoQuiz.runtimeconfig.json
+/Users/soelapyaehtun/Projects/dayTwoQuiz/dayTwoQuiz/bin/Debug/netcoreapp3.1/dayTwoQuiz.runtimeconfig.dev.json
+/Users/soelapyaehtun/Projects/dayTwoQuiz/dayTwoQuiz/bin/Debug/netcoreapp3.1/dayTwoQuiz.dll
+/Users/soelapyaehtun/Projects/dayTwoQuiz/dayTwoQuiz/bin/Debug/netcoreapp3.1/dayTwoQuiz.pdb
+/Users/soelapyaehtun/Projects/dayTwoQuiz/dayTwoQuiz/obj/Debug/netcoreapp3.1/dayTwoQuiz.csproj.AssemblyReference.cache
+/Users/soelapyaehtun/Projects/dayTwoQuiz/dayTwoQuiz/obj/Debug/netcoreapp3.1/dayTwoQuiz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/soelapyaehtun/Projects/dayTwoQuiz/dayTwoQuiz/obj/Debug/netcoreapp3.1/dayTwoQuiz.AssemblyInfoInputs.cache
+/Users/soelapyaehtun/Projects/dayTwoQuiz/dayTwoQuiz/obj/Debug/netcoreapp3.1/dayTwoQuiz.AssemblyInfo.cs
+/Users/soelapyaehtun/Projects/dayTwoQuiz/dayTwoQuiz/obj/Debug/netcoreapp3.1/dayTwoQuiz.csproj.CoreCompileInputs.cache
+/Users/soelapyaehtun/Projects/dayTwoQuiz/dayTwoQuiz/obj/Debug/netcoreapp3.1/dayTwoQuiz.dll
+/Users/soelapyaehtun/Projects/dayTwoQuiz/dayTwoQuiz/obj/Debug/netcoreapp3.1/dayTwoQuiz.pdb
+/Users/soelapyaehtun/Projects/dayTwoQuiz/dayTwoQuiz/obj/Debug/netcoreapp3.1/dayTwoQuiz.genruntimeconfig.cache

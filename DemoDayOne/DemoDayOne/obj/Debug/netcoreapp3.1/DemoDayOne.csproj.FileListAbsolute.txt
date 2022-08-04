@@ -1,0 +1,13 @@
+/Users/soelapyaehtun/Projects/DemoDayOne/DemoDayOne/bin/Debug/netcoreapp3.1/DemoDayOne.deps.json
+/Users/soelapyaehtun/Projects/DemoDayOne/DemoDayOne/bin/Debug/netcoreapp3.1/DemoDayOne.runtimeconfig.json
+/Users/soelapyaehtun/Projects/DemoDayOne/DemoDayOne/bin/Debug/netcoreapp3.1/DemoDayOne.runtimeconfig.dev.json
+/Users/soelapyaehtun/Projects/DemoDayOne/DemoDayOne/bin/Debug/netcoreapp3.1/DemoDayOne.dll
+/Users/soelapyaehtun/Projects/DemoDayOne/DemoDayOne/bin/Debug/netcoreapp3.1/DemoDayOne.pdb
+/Users/soelapyaehtun/Projects/DemoDayOne/DemoDayOne/obj/Debug/netcoreapp3.1/DemoDayOne.csproj.AssemblyReference.cache
+/Users/soelapyaehtun/Projects/DemoDayOne/DemoDayOne/obj/Debug/netcoreapp3.1/DemoDayOne.GeneratedMSBuildEditorConfig.editorconfig
+/Users/soelapyaehtun/Projects/DemoDayOne/DemoDayOne/obj/Debug/netcoreapp3.1/DemoDayOne.AssemblyInfoInputs.cache
+/Users/soelapyaehtun/Projects/DemoDayOne/DemoDayOne/obj/Debug/netcoreapp3.1/DemoDayOne.AssemblyInfo.cs
+/Users/soelapyaehtun/Projects/DemoDayOne/DemoDayOne/obj/Debug/netcoreapp3.1/DemoDayOne.csproj.CoreCompileInputs.cache
+/Users/soelapyaehtun/Projects/DemoDayOne/DemoDayOne/obj/Debug/netcoreapp3.1/DemoDayOne.dll
+/Users/soelapyaehtun/Projects/DemoDayOne/DemoDayOne/obj/Debug/netcoreapp3.1/DemoDayOne.pdb
+/Users/soelapyaehtun/Projects/DemoDayOne/DemoDayOne/obj/Debug/netcoreapp3.1/DemoDayOne.genruntimeconfig.cache
