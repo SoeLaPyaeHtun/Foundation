@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{4F5145E1-5FF4-46FB-B8A2-7EEC16807020}|Default">
+  <MonoDevelop.Ide.ItemProperties.dayTwoExerciseC PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="dayTwoExerciseC/QuestionC5.cs">
+    <Files>
+      <File FileName="dayTwoExerciseC/Program.cs" Line="15" Column="13" />
+      <File FileName="dayTwoExerciseC/QuestionC1.cs" Line="24" Column="14" />
+      <File FileName="dayTwoExerciseC/QuestionC2.cs" Line="35" Column="14" />
+      <File FileName="dayTwoExerciseC/QuestionC3.cs" Line="31" Column="13" />
+      <File FileName="dayTwoExerciseC/QuestionC4.cs" Line="23" Column="49" />
+      <File FileName="dayTwoExerciseC/QuestionC5.cs" Line="7" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="dayTwoExerciseC" expanded="True">
+            <Node name="dayTwoExerciseC" expanded="True">
+              <Node name="QuestionC5.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

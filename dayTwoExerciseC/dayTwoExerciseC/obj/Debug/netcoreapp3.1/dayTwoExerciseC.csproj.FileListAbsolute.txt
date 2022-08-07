@@ -1,0 +1,13 @@
+/Users/soelapyaehtun/Projects/dayTwoExerciseC/dayTwoExerciseC/bin/Debug/netcoreapp3.1/dayTwoExerciseC.deps.json
+/Users/soelapyaehtun/Projects/dayTwoExerciseC/dayTwoExerciseC/bin/Debug/netcoreapp3.1/dayTwoExerciseC.runtimeconfig.json
+/Users/soelapyaehtun/Projects/dayTwoExerciseC/dayTwoExerciseC/bin/Debug/netcoreapp3.1/dayTwoExerciseC.runtimeconfig.dev.json
+/Users/soelapyaehtun/Projects/dayTwoExerciseC/dayTwoExerciseC/bin/Debug/netcoreapp3.1/dayTwoExerciseC.dll
+/Users/soelapyaehtun/Projects/dayTwoExerciseC/dayTwoExerciseC/bin/Debug/netcoreapp3.1/dayTwoExerciseC.pdb
+/Users/soelapyaehtun/Projects/dayTwoExerciseC/dayTwoExerciseC/obj/Debug/netcoreapp3.1/dayTwoExerciseC.csproj.AssemblyReference.cache
+/Users/soelapyaehtun/Projects/dayTwoExerciseC/dayTwoExerciseC/obj/Debug/netcoreapp3.1/dayTwoExerciseC.GeneratedMSBuildEditorConfig.editorconfig
+/Users/soelapyaehtun/Projects/dayTwoExerciseC/dayTwoExerciseC/obj/Debug/netcoreapp3.1/dayTwoExerciseC.AssemblyInfoInputs.cache
+/Users/soelapyaehtun/Projects/dayTwoExerciseC/dayTwoExerciseC/obj/Debug/netcoreapp3.1/dayTwoExerciseC.AssemblyInfo.cs
+/Users/soelapyaehtun/Projects/dayTwoExerciseC/dayTwoExerciseC/obj/Debug/netcoreapp3.1/dayTwoExerciseC.csproj.CoreCompileInputs.cache
+/Users/soelapyaehtun/Projects/dayTwoExerciseC/dayTwoExerciseC/obj/Debug/netcoreapp3.1/dayTwoExerciseC.dll
+/Users/soelapyaehtun/Projects/dayTwoExerciseC/dayTwoExerciseC/obj/Debug/netcoreapp3.1/dayTwoExerciseC.pdb
+/Users/soelapyaehtun/Projects/dayTwoExerciseC/dayTwoExerciseC/obj/Debug/netcoreapp3.1/dayTwoExerciseC.genruntimeconfig.cache
