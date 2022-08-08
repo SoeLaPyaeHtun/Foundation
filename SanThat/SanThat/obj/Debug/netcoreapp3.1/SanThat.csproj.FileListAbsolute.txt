@@ -1,0 +1,13 @@
+/Users/soelapyaehtun/Projects/SanThat/SanThat/bin/Debug/netcoreapp3.1/SanThat.deps.json
+/Users/soelapyaehtun/Projects/SanThat/SanThat/bin/Debug/netcoreapp3.1/SanThat.runtimeconfig.json
+/Users/soelapyaehtun/Projects/SanThat/SanThat/bin/Debug/netcoreapp3.1/SanThat.runtimeconfig.dev.json
+/Users/soelapyaehtun/Projects/SanThat/SanThat/bin/Debug/netcoreapp3.1/SanThat.dll
+/Users/soelapyaehtun/Projects/SanThat/SanThat/bin/Debug/netcoreapp3.1/SanThat.pdb
+/Users/soelapyaehtun/Projects/SanThat/SanThat/obj/Debug/netcoreapp3.1/SanThat.csproj.AssemblyReference.cache
+/Users/soelapyaehtun/Projects/SanThat/SanThat/obj/Debug/netcoreapp3.1/SanThat.GeneratedMSBuildEditorConfig.editorconfig
+/Users/soelapyaehtun/Projects/SanThat/SanThat/obj/Debug/netcoreapp3.1/SanThat.AssemblyInfoInputs.cache
+/Users/soelapyaehtun/Projects/SanThat/SanThat/obj/Debug/netcoreapp3.1/SanThat.AssemblyInfo.cs
+/Users/soelapyaehtun/Projects/SanThat/SanThat/obj/Debug/netcoreapp3.1/SanThat.csproj.CoreCompileInputs.cache
+/Users/soelapyaehtun/Projects/SanThat/SanThat/obj/Debug/netcoreapp3.1/SanThat.dll
+/Users/soelapyaehtun/Projects/SanThat/SanThat/obj/Debug/netcoreapp3.1/SanThat.pdb
+/Users/soelapyaehtun/Projects/SanThat/SanThat/obj/Debug/netcoreapp3.1/SanThat.genruntimeconfig.cache

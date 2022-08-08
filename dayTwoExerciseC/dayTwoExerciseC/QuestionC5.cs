@@ -8,7 +8,7 @@ namespace dayTwoExerciseC
             //questionc5
             Console.Write("Enter Number: ");
             int num = Convert.ToInt32(Console.ReadLine());
-            int temp = num;
+            int toCompare = num;
             int plus = 0;
             while (num > 0)
             {
@@ -18,7 +18,7 @@ namespace dayTwoExerciseC
                 num = num / 10;
 
             }
-            if (temp == plus)
+            if (toCompare == plus)
             {
                 Console.WriteLine("True");
             }

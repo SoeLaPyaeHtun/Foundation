@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{45FA5DE8-4F22-4B86-9415-8FEFC28CA2F0}|Default">
+  <MonoDevelop.Ide.ItemProperties.SanThat PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SanThat/Program.cs">
+    <Files>
+      <File FileName="SanThat/Program.cs" Line="15" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SanThat" expanded="True">
+            <Node name="SanThat" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
