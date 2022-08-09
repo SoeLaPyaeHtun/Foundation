@@ -5,19 +5,19 @@ namespace ExerciseE
     {
         public static void QFive()
         {
-            for (int start = 5; start <= 10000; start++)
+            for (int start = 5; start <= 100; start++)
             {
-                int n = 0;
+                int factor_count = 0;
                 for (int i = 1; i <= start; i++)
                 {
                     if (start % i == 0)
                     {
-                        n++;
+                        factor_count++;
 
                     }
 
                 }
-                if (n == 2)
+                if (factor_count == 2)
                 {
                     Console.WriteLine(start);
 

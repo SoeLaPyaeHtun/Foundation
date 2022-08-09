@@ -1,22 +1,23 @@
 ﻿<Properties StartupConfiguration="{D8A1D951-44B9-4717-BEE9-185CEE33F158}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ExerciseE/Question6.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExerciseE/Question1A.cs">
     <Files>
-      <File FileName="ExerciseE/Program.cs" Line="21" Column="12" />
-      <File FileName="ExerciseE/Question5.cs" Line="6" Column="33" />
-      <File FileName="ExerciseE/Question6.cs" Line="8" Column="1" />
+      <File FileName="ExerciseE/Program.cs" Line="15" Column="13" />
+      <File FileName="ExerciseE/Question5.cs" Line="21" Column="18" />
+      <File FileName="ExerciseE/Question6.cs" Line="21" Column="18" />
+      <File FileName="ExerciseE/Question3.cs" Line="11" Column="29" />
+      <File FileName="ExerciseE/Question4.cs" Line="21" Column="14" />
+      <File FileName="ExerciseE/Question1A.cs" Line="1" Column="1" />
+      <File FileName="ExerciseE/Question1B.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ExerciseE" expanded="True">
             <Node name="ExerciseE" expanded="True">
-              <Node name="Question6.cs" selected="True" />
+              <Node name="Question1A.cs" selected="True" />
             </Node>
           </Node>
         </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>

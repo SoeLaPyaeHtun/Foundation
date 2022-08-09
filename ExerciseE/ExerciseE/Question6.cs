@@ -5,6 +5,7 @@ namespace ExerciseE
     {
         public static void QSix()
         {
+            Console.Write(" The perfect numbers from 1 to 1000 are: ");
             for (int start = 1; start <= 1000; start++)
             {
                 int result = 0;
@@ -17,9 +18,10 @@ namespace ExerciseE
                     }
 
                 }
+
                 if (result == toComp)
                 {
-                    Console.WriteLine($"This is perfect: {result}");
+                    Console.Write($"{result}  ");
                 }
 
             }
