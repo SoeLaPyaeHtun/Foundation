@@ -1,0 +1,13 @@
+/Users/soelapyaehtun/Projects/dayThreeQuiz/dayThreeQuiz/bin/Debug/netcoreapp3.1/dayThreeQuiz.deps.json
+/Users/soelapyaehtun/Projects/dayThreeQuiz/dayThreeQuiz/bin/Debug/netcoreapp3.1/dayThreeQuiz.runtimeconfig.json
+/Users/soelapyaehtun/Projects/dayThreeQuiz/dayThreeQuiz/bin/Debug/netcoreapp3.1/dayThreeQuiz.runtimeconfig.dev.json
+/Users/soelapyaehtun/Projects/dayThreeQuiz/dayThreeQuiz/bin/Debug/netcoreapp3.1/dayThreeQuiz.dll
+/Users/soelapyaehtun/Projects/dayThreeQuiz/dayThreeQuiz/bin/Debug/netcoreapp3.1/dayThreeQuiz.pdb
+/Users/soelapyaehtun/Projects/dayThreeQuiz/dayThreeQuiz/obj/Debug/netcoreapp3.1/dayThreeQuiz.csproj.AssemblyReference.cache
+/Users/soelapyaehtun/Projects/dayThreeQuiz/dayThreeQuiz/obj/Debug/netcoreapp3.1/dayThreeQuiz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/soelapyaehtun/Projects/dayThreeQuiz/dayThreeQuiz/obj/Debug/netcoreapp3.1/dayThreeQuiz.AssemblyInfoInputs.cache
+/Users/soelapyaehtun/Projects/dayThreeQuiz/dayThreeQuiz/obj/Debug/netcoreapp3.1/dayThreeQuiz.AssemblyInfo.cs
+/Users/soelapyaehtun/Projects/dayThreeQuiz/dayThreeQuiz/obj/Debug/netcoreapp3.1/dayThreeQuiz.csproj.CoreCompileInputs.cache
+/Users/soelapyaehtun/Projects/dayThreeQuiz/dayThreeQuiz/obj/Debug/netcoreapp3.1/dayThreeQuiz.dll
+/Users/soelapyaehtun/Projects/dayThreeQuiz/dayThreeQuiz/obj/Debug/netcoreapp3.1/dayThreeQuiz.pdb
+/Users/soelapyaehtun/Projects/dayThreeQuiz/dayThreeQuiz/obj/Debug/netcoreapp3.1/dayThreeQuiz.genruntimeconfig.cache
