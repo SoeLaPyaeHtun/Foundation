@@ -12,9 +12,9 @@ namespace ExerciseE
             //Question1B.QOneB();
             //Question2.QTwo();
             //Question3.QThree();
-            //Question4.QFour();
+           // Question4.QFour();
             //Question5.QFive();
-            //Question6.QSix();
+            Question6.QSix();
 
 
             

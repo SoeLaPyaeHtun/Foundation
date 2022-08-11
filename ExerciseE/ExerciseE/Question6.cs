@@ -6,22 +6,22 @@ namespace ExerciseE
         public static void QSix()
         {
             Console.Write(" The perfect numbers from 1 to 1000 are: ");
-            for (int start = 1; start <= 1000; start++)
+            for (int num = 1; num <= 1000; num++)
             {
-                int result = 0;
-                int toComp = start;
-                for (int i = 1; i <= start - 1; i++)
+                int sumOfFactors = 0;
+
+                for (int i = 1; i <= num - 1; i++)
                 {
-                    if (start % i == 0)
+                    if (num % i == 0)
                     {
-                        result += i;
+                        sumOfFactors += i;
                     }
 
                 }
 
-                if (result == toComp)
+                if (sumOfFactors == num)
                 {
-                    Console.Write($"{result}  ");
+                    Console.Write($"{sumOfFactors}  ");
                 }
 
             }

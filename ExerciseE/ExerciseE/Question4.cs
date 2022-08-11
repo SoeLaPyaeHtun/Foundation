@@ -6,21 +6,20 @@ namespace ExerciseE
         public static void QFour()
         {
             Console.Write("Enter Number: ");
-            int Input = Convert.ToInt32(Console.ReadLine());
+            int inputNum = Convert.ToInt32(Console.ReadLine());
 
-            int toComp = Input;
+           
+            int sumOfFactors = 0;
 
-            int result = 0;
-
-            for (int i = 1; i < Input; i++)
+            for (int i = 1; i < inputNum; i++)
             {
-                if (Input % i == 0)
+                if (inputNum % i == 0)
                 {
-                    result += i;
+                    sumOfFactors += i;
                 }
             }
 
-            if (result == toComp)
+            if (sumOfFactors == inputNum)
             {
                 Console.Write("This is a perfect number");
             }

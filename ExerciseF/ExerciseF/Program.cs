@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace ExerciseF
 {
@@ -6,13 +7,17 @@ namespace ExerciseF
     {
         static void Main(string[] args)
         {
-            string pharse = "I dont like coding";
-            Console.Write(pharse.Length);
-            int count = 0;
-            for(int i = 0; i <= pharse.Length; i++)
-            {
-                if(s)
-            }
+            //Question1A.QOneA();
+            //Question1B.QOneB();
+            //Question2.QTwo();
+            //Question3.QThree();
+            //Question4.QFour();
+            //Question5.QFive();
+            Question6.QSix();
+
+
+
+           
 
         }
     }
