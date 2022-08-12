@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{C368F6CB-984A-4B2C-9D8E-FAEEC0F2E827}|Default">
+  <MonoDevelop.Ide.ItemProperties.dailyQuiz5 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../ExerciseG/ExerciseG/Question3.cs">
+    <Files>
+      <File FileName="../ExerciseG/ExerciseG/Question3.cs" Line="31" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="dailyQuiz5" expanded="True" selected="True">
+            <Node name="dailyQuiz5" expanded="True" selected="True">
+              <Node name="ConnectedServicesFolder" selected="True" />
+              <Node name="Dependencies" selected="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

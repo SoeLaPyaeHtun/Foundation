@@ -1,18 +1,16 @@
 ﻿<Properties StartupConfiguration="{75EFD317-D103-4B15-B0D5-E417B493241F}|Default">
   <MonoDevelop.Ide.ItemProperties.ExerciseF PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ExerciseF/Question4.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExerciseF/Question6.cs">
     <Files>
       <File FileName="ExerciseF/Program.cs" Line="16" Column="30" />
-      <File FileName="ExerciseF/Question6.cs" Line="17" Column="1" />
-      <File FileName="ExerciseF/Question4.cs" Line="1" Column="1" />
+      <File FileName="ExerciseF/Question6.cs" Line="11" Column="28" />
+      <File FileName="ExerciseF/Question4.cs" Line="11" Column="28" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ExerciseF" expanded="True">
-            <Node name="ExerciseF" expanded="True">
-              <Node name="Question4.cs" selected="True" />
-            </Node>
+            <Node name="ExerciseF" expanded="True" selected="True" />
           </Node>
         </State>
       </Pad>

@@ -1,0 +1,13 @@
+/Users/soelapyaehtun/Projects/dailyQuiz5/dailyQuiz5/bin/Debug/netcoreapp3.1/dailyQuiz5.deps.json
+/Users/soelapyaehtun/Projects/dailyQuiz5/dailyQuiz5/bin/Debug/netcoreapp3.1/dailyQuiz5.runtimeconfig.json
+/Users/soelapyaehtun/Projects/dailyQuiz5/dailyQuiz5/bin/Debug/netcoreapp3.1/dailyQuiz5.runtimeconfig.dev.json
+/Users/soelapyaehtun/Projects/dailyQuiz5/dailyQuiz5/bin/Debug/netcoreapp3.1/dailyQuiz5.dll
+/Users/soelapyaehtun/Projects/dailyQuiz5/dailyQuiz5/bin/Debug/netcoreapp3.1/dailyQuiz5.pdb
+/Users/soelapyaehtun/Projects/dailyQuiz5/dailyQuiz5/obj/Debug/netcoreapp3.1/dailyQuiz5.csproj.AssemblyReference.cache
+/Users/soelapyaehtun/Projects/dailyQuiz5/dailyQuiz5/obj/Debug/netcoreapp3.1/dailyQuiz5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/soelapyaehtun/Projects/dailyQuiz5/dailyQuiz5/obj/Debug/netcoreapp3.1/dailyQuiz5.AssemblyInfoInputs.cache
+/Users/soelapyaehtun/Projects/dailyQuiz5/dailyQuiz5/obj/Debug/netcoreapp3.1/dailyQuiz5.AssemblyInfo.cs
+/Users/soelapyaehtun/Projects/dailyQuiz5/dailyQuiz5/obj/Debug/netcoreapp3.1/dailyQuiz5.csproj.CoreCompileInputs.cache
+/Users/soelapyaehtun/Projects/dailyQuiz5/dailyQuiz5/obj/Debug/netcoreapp3.1/dailyQuiz5.dll
+/Users/soelapyaehtun/Projects/dailyQuiz5/dailyQuiz5/obj/Debug/netcoreapp3.1/dailyQuiz5.pdb
+/Users/soelapyaehtun/Projects/dailyQuiz5/dailyQuiz5/obj/Debug/netcoreapp3.1/dailyQuiz5.genruntimeconfig.cache

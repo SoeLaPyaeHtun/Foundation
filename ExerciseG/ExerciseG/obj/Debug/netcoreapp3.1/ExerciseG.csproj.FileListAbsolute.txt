@@ -1,0 +1,13 @@
+/Users/soelapyaehtun/Projects/ExerciseG/ExerciseG/bin/Debug/netcoreapp3.1/ExerciseG.deps.json
+/Users/soelapyaehtun/Projects/ExerciseG/ExerciseG/bin/Debug/netcoreapp3.1/ExerciseG.runtimeconfig.json
+/Users/soelapyaehtun/Projects/ExerciseG/ExerciseG/bin/Debug/netcoreapp3.1/ExerciseG.runtimeconfig.dev.json
+/Users/soelapyaehtun/Projects/ExerciseG/ExerciseG/bin/Debug/netcoreapp3.1/ExerciseG.dll
+/Users/soelapyaehtun/Projects/ExerciseG/ExerciseG/bin/Debug/netcoreapp3.1/ExerciseG.pdb
+/Users/soelapyaehtun/Projects/ExerciseG/ExerciseG/obj/Debug/netcoreapp3.1/ExerciseG.csproj.AssemblyReference.cache
+/Users/soelapyaehtun/Projects/ExerciseG/ExerciseG/obj/Debug/netcoreapp3.1/ExerciseG.GeneratedMSBuildEditorConfig.editorconfig
+/Users/soelapyaehtun/Projects/ExerciseG/ExerciseG/obj/Debug/netcoreapp3.1/ExerciseG.AssemblyInfoInputs.cache
+/Users/soelapyaehtun/Projects/ExerciseG/ExerciseG/obj/Debug/netcoreapp3.1/ExerciseG.AssemblyInfo.cs
+/Users/soelapyaehtun/Projects/ExerciseG/ExerciseG/obj/Debug/netcoreapp3.1/ExerciseG.csproj.CoreCompileInputs.cache
+/Users/soelapyaehtun/Projects/ExerciseG/ExerciseG/obj/Debug/netcoreapp3.1/ExerciseG.dll
+/Users/soelapyaehtun/Projects/ExerciseG/ExerciseG/obj/Debug/netcoreapp3.1/ExerciseG.pdb
+/Users/soelapyaehtun/Projects/ExerciseG/ExerciseG/obj/Debug/netcoreapp3.1/ExerciseG.genruntimeconfig.cache
