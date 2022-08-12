@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{E1F5CFDB-5AD7-4446-BA77-67E8196BA8EB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExerciseH/Question7.cs">
+    <Files>
+      <File FileName="ExerciseH/Program.cs" Line="44" Column="12" />
+      <File FileName="ExerciseH/Question3.cs" Line="24" Column="6" />
+      <File FileName="ExerciseH/Question4.cs" Line="16" Column="10" />
+      <File FileName="ExerciseH/Question1.cs" Line="9" Column="14" />
+      <File FileName="ExerciseH/Question2.cs" Line="9" Column="14" />
+      <File FileName="ExerciseH/Question5.cs" Line="13" Column="33" />
+      <File FileName="ExerciseH/Question6.cs" Line="22" Column="14" />
+      <File FileName="ExerciseH/Question7.cs" Line="7" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ExerciseH" expanded="True">
+            <Node name="ExerciseH" expanded="True">
+              <Node name="Question7.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ExerciseH PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

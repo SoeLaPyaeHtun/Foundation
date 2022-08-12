@@ -1,0 +1,13 @@
+/Users/soelapyaehtun/Projects/ExerciseH/ExerciseH/bin/Debug/netcoreapp3.1/ExerciseH.deps.json
+/Users/soelapyaehtun/Projects/ExerciseH/ExerciseH/bin/Debug/netcoreapp3.1/ExerciseH.runtimeconfig.json
+/Users/soelapyaehtun/Projects/ExerciseH/ExerciseH/bin/Debug/netcoreapp3.1/ExerciseH.runtimeconfig.dev.json
+/Users/soelapyaehtun/Projects/ExerciseH/ExerciseH/bin/Debug/netcoreapp3.1/ExerciseH.dll
+/Users/soelapyaehtun/Projects/ExerciseH/ExerciseH/bin/Debug/netcoreapp3.1/ExerciseH.pdb
+/Users/soelapyaehtun/Projects/ExerciseH/ExerciseH/obj/Debug/netcoreapp3.1/ExerciseH.csproj.AssemblyReference.cache
+/Users/soelapyaehtun/Projects/ExerciseH/ExerciseH/obj/Debug/netcoreapp3.1/ExerciseH.GeneratedMSBuildEditorConfig.editorconfig
+/Users/soelapyaehtun/Projects/ExerciseH/ExerciseH/obj/Debug/netcoreapp3.1/ExerciseH.AssemblyInfoInputs.cache
+/Users/soelapyaehtun/Projects/ExerciseH/ExerciseH/obj/Debug/netcoreapp3.1/ExerciseH.AssemblyInfo.cs
+/Users/soelapyaehtun/Projects/ExerciseH/ExerciseH/obj/Debug/netcoreapp3.1/ExerciseH.csproj.CoreCompileInputs.cache
+/Users/soelapyaehtun/Projects/ExerciseH/ExerciseH/obj/Debug/netcoreapp3.1/ExerciseH.dll
+/Users/soelapyaehtun/Projects/ExerciseH/ExerciseH/obj/Debug/netcoreapp3.1/ExerciseH.pdb
+/Users/soelapyaehtun/Projects/ExerciseH/ExerciseH/obj/Debug/netcoreapp3.1/ExerciseH.genruntimeconfig.cache
